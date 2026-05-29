@@ -1,32 +1,32 @@
 caption {
-    font-size: 1.6rem;         
-    font-weight: bold;         
-    color: #2c3e50;            
+    font-size: 1.6rem;
+    font-weight: bold;
+    color: #fe8544;
     padding: 10px;
-    margin-bottom: 15px;       
-    letter-spacing: 1px;       
-    text-transform: uppercase; 
+    margin-bottom: 15px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
 }
 
 .colunas {
-    color: rgb(126, 3, 3);
+    color: #02180c;
 }
 
 .linhas {
-    color: rgba(106, 28, 41, 0.679);
+    color: #4b5563;
 }
 
 .periodos {
-    color: rgb(232, 166, 0);
+    color: #0a4a86;
 }
 
 table {
-    width: 500px;
+    width: 65%;
     margin: 40px auto;
     padding: 28px;
     border: 2px;
     border-style: dashed;
-    border-color: rgb(2, 122, 2);
+    border-color: #85ef0c;
     border-collapse: collapse;
     justify-content: center;
 }
@@ -34,27 +34,29 @@ table {
 td, th {
     padding: 15px;
     border: 1px;
-    border-style:groove;
-    border-color: rgb(57, 196, 57);
+    border-style: groove;
+    border-color: #dd6b13;
     border-collapse: collapse;
+    color: black;
 }
 
 .aulas1 {
-    background-color: rgba(123, 30, 209, 0.525);
+    background-color: #e0e7ff;
 }
 
 .aulas2 {
-    background-color: rgba(225, 5, 5, 0.607);
+    background-color: #fee2e2;
 }
 
 .domingo {
-    background-color: rgba(255, 255, 0, 0.585);
+    background-color: #fef3c7;
 }
 
 tbody tr:nth-child(even) {
-background-color: #D6EEEE;
+    background-color: #9ba8aca1;
 }
 
 thead th {
-    background-color: #3cd553;
+    background-color: #2b5aa6;
+    color: #98e11bb2;
 }
