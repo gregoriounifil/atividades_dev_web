@@ -1,0 +1,60 @@
+caption {
+    font-size: 1.6rem;         
+    font-weight: bold;         
+    color: #2c3e50;            
+    padding: 10px;
+    margin-bottom: 15px;       
+    letter-spacing: 1px;       
+    text-transform: uppercase; 
+}
+
+.colunas {
+    color: rgb(126, 3, 3);
+}
+
+.linhas {
+    color: rgba(106, 28, 41, 0.679);
+}
+
+.periodos {
+    color: rgb(232, 166, 0);
+}
+
+table {
+    width: 500px;
+    margin: 40px auto;
+    padding: 28px;
+    border: 2px;
+    border-style: dashed;
+    border-color: rgb(2, 122, 2);
+    border-collapse: collapse;
+    justify-content: center;
+}
+
+td, th {
+    padding: 15px;
+    border: 1px;
+    border-style:groove;
+    border-color: rgb(57, 196, 57);
+    border-collapse: collapse;
+}
+
+.aulas1 {
+    background-color: rgba(123, 30, 209, 0.525);
+}
+
+.aulas2 {
+    background-color: rgba(225, 5, 5, 0.607);
+}
+
+.domingo {
+    background-color: rgba(255, 255, 0, 0.585);
+}
+
+tbody tr:nth-child(even) {
+background-color: #D6EEEE;
+}
+
+thead th {
+    background-color: #3cd553;
+}
